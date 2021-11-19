@@ -10,5 +10,4 @@ for i in range(l) :
     answer += s_i[i] * (31**i)
 
 answer = answer % 1234567891
-
 print(answer)
