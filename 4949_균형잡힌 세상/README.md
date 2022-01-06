@@ -54,7 +54,7 @@ Help( I[m being held prisoner in a fortune cookie factory)].
 
 ---
 
-### 예제 입력
+### 예제 출력
 
 yes
 
