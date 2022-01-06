@@ -18,7 +18,7 @@ while len(que) != 1:
 
 print(que)
 '''
-
+'''
 #deque이용 (성공)
 from collections import deque
 
@@ -32,3 +32,7 @@ while(len(d) != 1) :
     d.rotate(-1)
 
 print(*d)
+'''
+
+#균형잡힌 세상
+
