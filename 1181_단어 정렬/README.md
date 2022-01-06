@@ -27,18 +27,31 @@
 ### 예제 입력
 
 13
+
 but
+
 i
+
 wont
+
 hesitate
+
 no
+
 more
+
 no
+
 more
+
 it
+
 cannot
+
 wait
+
 im
+
 yours
 
 ---
@@ -46,15 +59,25 @@ yours
 ### 예제 출력
 
 i
+
 im
+
 it
+
 no
+
 but
+
 more
+
 wait
+
 wont
+
 yours
+
 cannot
+
 hesitate
 
 ---
